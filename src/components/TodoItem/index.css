@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.list-items {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button-style {
+  background-color: transparent;
+  border-radius: 8px;
+  border: solid #ff0b37;
+  color: #ff0b37;
+  font-size: 14px;
+  font-family: 'Roboto';
+  height: 50px;
+  width: 150px;
+  margin-left: 50px;
+}
+
+p {
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
